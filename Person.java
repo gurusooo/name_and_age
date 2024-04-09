@@ -41,7 +41,6 @@ class Person {
 
 class FutureBirthdayException extends RuntimeException {
     public FutureBirthdayException(String message) {
-
         super(message);
     }
 }
